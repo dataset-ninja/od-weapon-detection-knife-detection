@@ -16,14 +16,14 @@ Weapon detection Open Data provides quality image datasets built for training De
 
 The datasets included in this section have been designed for the classification task based on CNN deep learning models. After the training stage on these datasets, the classification models must distinguish between weapons and different common objects present in the background or handled similarly.
 
-- OD-WeaponDetection: Knife Classification (10 039 images, 100 classes) ([(available on DatasetNinja)]())
-- OD-WeaponDetection: Pistol Classification (9 857 images, 102 classes) ([(available on DatasetNinja)]())
-- - OD-WeaponDetection: Sohas Classification (9 544 images, 6 classes) ([(available on DatasetNinja)]())
+- OD-WeaponDetection: Knife Classification (10 039 images, 100 classes) [(available on DatasetNinja)](https://datasetninja.com/od-weapon-detection-knife-classification)
+- OD-WeaponDetection: Pistol Classification (9 857 images, 102 classes) [(available on DatasetNinja)](https://datasetninja.com/od-weapon-detection-pistol-classification)
+- OD-WeaponDetection: Sohas Classification (9 544 images, 6 classes) [(available on DatasetNinja)](https://datasetninja.com/od-weapon-detection-sohas-classification)
 
 ### Detection
 
 The datasets included in this section have been designed for the object detection task based on Deep Learning architectures with a CNN backbone. The selected images contain weapons and objects but also consider an enriched context of different background objects as well as the way objects are handled. After the training stage on these datasets, the detection models must locate and distinguish between weapons and different common objects present in the background or handled similarly.
 
-- OD-WeaponDetection: Knife Detection (2 078 images, 1 class) ([(available on DatasetNinja)]())
-- OD-WeaponDetection: Pistol Detection (3 000 images, 1 class) ([(available on DatasetNinja)]())
-- - OD-WeaponDetection: Sohas Detection (5 859 images, 6 classes) ([(available on DatasetNinja)]())
+- OD-WeaponDetection: Knife Detection (2 078 images, 1 class) (current)
+- OD-WeaponDetection: Pistol Detection (3 000 images, 1 class) [(available on DatasetNinja)](https://datasetninja.com/od-weapon-detection-pistol-detection)
+- OD-WeaponDetection: Sohas Detection (5 859 images, 6 classes) [(available on DatasetNinja)](https://datasetninja.com/od-weapon-detection-sohas-detection)
